@@ -1,0 +1,6 @@
+{
+  "name": "NOVA IPTV",
+  "description": "Premium cinematic Android IPTV streaming player inspired by Netflix with Live TV, Movies, Series, Media3 ExoPlayer, and full Arabic/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">NOVA IPTV</string>
+    <string name="tagline">بث IPTV سينمائي متطور</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_live_tv">البث المباشر</string>
+    <string name="nav_movies">الأفلام</string>
+    <string name="nav_series">المسلسلات</string>
+    <string name="nav_favorites">المفضلة</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Home Screen -->
+    <string name="hero_play">تشغيل الآن</string>
+    <string name="hero_details">مزيد من المعلومات</string>
+    <string name="continue_watching">متابعة المشاهدة</string>
+    <string name="trending_movies">الأفلام الأكثر رواجاً</string>
+    <string name="popular_series">المسلسلات الشهيرة</string>
+    <string name="recommended_channels">قنوات بث مباشر مقترحة</string>
+    <string name="recently_added">أضيف مؤخراً</string>
+    <string name="all_categories">جميع التصنيفات</string>
+    <string name="view_all">عرض الكل</string>
+
+    <!-- Categories -->
+    <string name="cat_all">الكل</string>
+    <string name="cat_sports">رياضة</string>
+    <string name="cat_news">أخبار</string>
+    <string name="cat_movies">سينما</string>
+    <string name="cat_kids">أطفال</string>
+    <string name="cat_documentary">وثائقيات</string>
+    <string name="cat_entertainment">ترفيه</string>
+    <string name="cat_action">أكشن</string>
+    <string name="cat_drama">دراما</string>
+    <string name="cat_comedy">كوميديا</string>
+
+    <!-- Live TV -->
+    <string name="search_channels">بحث في القنوات المباشرة…</string>
+    <string name="no_channels_found">لم يتم العثور على أي قنوات</string>
+    <string name="channel_guide">دليل القنوات</string>
+    <string name="now_playing">يعرض الآن</string>
+    <string name="up_next">التالي</string>
+    <string name="switch_channel">تبديل سريع للقناة</string>
+
+    <!-- Movies -->
+    <string name="search_movies">بحث في الأفلام…</string>
+    <string name="no_movies_found">لم يتم العثور على أفلام</string>
+    <string name="duration">المدة</string>
+    <string name="release_year">سنة الإنتاج</string>
+    <string name="rating">التقييم</string>
+    <string name="genre">النوع</string>
+    <string name="synopsis">نبذة عن الفيلم</string>
+    <string name="watch_now">مشاهدة الآن</string>
+    <string name="resume">استئناف التشغيل</string>
+    <string name="at_time">عند %s</string>
+
+    <!-- TV Series -->
+    <string name="search_series">بحث في المسلسلات…</string>
+    <string name="no_series_found">لم يتم العثور على مسلسلات</string>
+    <string name="seasons">المواسم</string>
+    <string name="season_num">الموسم %d</string>
+    <string name="episodes">الحلقات</string>
+    <string name="episode_num">الحلقة %d</string>
+    <string name="next_episode">الحلقة التالية</string>
+    <string name="auto_play_next">تشغيل الحلقة التالية تلقائياً</string>
+
+    <!-- Player -->
+    <string name="buffering">جارٍ تحميل البث…</string>
+    <string name="playback_error">حدث خطأ في تشغيل البث</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="quality">الجودة</string>
+    <string name="quality_auto">تلقائي</string>
+    <string name="aspect_ratio">أبعاد الشاشة</string>
+    <string name="aspect_fit">ملاءمة الشاشة</string>
+    <string name="aspect_fill">ملء الشاشة</string>
+    <string name="aspect_zoom">تكبير</string>
+    <string name="aspect_stretch">تمديد</string>
+    <string name="aspect_original">الحجم الأصلي</string>
+    <string name="audio_tracks">المسارات الصوتية</string>
+    <string name="subtitles">الترجمة</string>
+    <string name="subtitles_off">إيقاف الترجمة</string>
+    <string name="speed">سرعة التشغيل</string>
+    <string name="lock_controls">قفل أزرار التحكم</string>
+    <string name="unlock_controls">إلغاء القفل</string>
+
+    <!-- IPTV Account & Setup -->
+    <string name="setup_title">ربط اشتراك IPTV</string>
+    <string name="setup_subtitle">أدخل رابط قائمة M3U أو بيانات خادم Xtream Codes للبدء في البث المباشر.</string>
+    <string name="tab_xtream">Xtream Codes</string>
+    <string name="tab_m3u">قائمة M3U</string>
+    <string name="tab_demo">العرض التجريبي</string>
+    <string name="account_name">اسم الحساب</string>
+    <string name="server_url">رابط الخادم (مثال: http://server.com:8080)</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="m3u_url">رابط قائمة M3U / M3U8</string>
+    <string name="connect">اتصال ومزامنة القنوات</string>
+    <string name="try_demo">تجربة العرض التجريبي</string>
+    <string name="demo_description">استمتع بتجربة تطبيق NOVA IPTV فوراً مع قنوات وبث تجريبي مجاني وقانوني عالي الجودة مثل Big Buck Bunny و Tears of Steel.</string>
+    <string name="manage_accounts">إدارة اشتراكات IPTV</string>
+    <string name="add_account">إضافة حساب جديد</string>
+    <string name="edit_account">تعديل الحساب</string>
+    <string name="delete_account">حذف الحساب</string>
+    <string name="refresh_playlist">تحديث قائمة القنوات</string>
+    <string name="active_account">الحساب النشط</string>
+    <string name="switch_account">تبديل</string>
+    <string name="syncing_playlist">جارٍ تنزيل وفهرسة القنوات…</string>
+    <string name="sync_success">تمت مزامنة القائمة بنجاح!</string>
+    <string name="sync_error">فشل تحميل القائمة. يرجى التحقق من الرابط أو بيانات الدخول.</string>
+
+    <!-- Settings -->
+    <string name="settings_title">الإعدادات</string>
+    <string name="section_appearance">المظهر واللغة</string>
+    <string name="language">اللغة</string>
+    <string name="language_arabic">العربية (Arabic - الافتراضي)</string>
+    <string name="language_english">English (الإنجليزية)</string>
+    <string name="section_playback">خيارات المشغل والتشغيل</string>
+    <string name="default_aspect">أبعاد الشاشة الافتراضية</string>
+    <string name="section_iptv">بيانات واشتراكات IPTV</string>
+    <string name="clear_cache">مسح الذاكرة المؤقتة</string>
+    <string name="cache_cleared">تم مسح الذاكرة المؤقتة بنجاح</string>
+    <string name="section_about">حول تطبيق NOVA IPTV</string>
+    <string name="app_version">الإصدار 1.0 (مُحسّن لجهاز Galaxy S26 Ultra)</string>
+    <string name="app_info_text">تطبيق تشغيل IPTV متميز يعتمد على مشغل Media3 ExoPlayer فائق السرعة مع دعم البث التكيفي والواجهة السينمائية الكاملة باللغة العربية.</string>
+
+    <!-- Favorites -->
+    <string name="favorites_title">المفضلة</string>
+    <string name="no_favorites_title">لا توجد عناصر في المفضلة</string>
+    <string name="no_favorites_desc">اضغط على رمز القلب في أي قناة أو فيلم لإضافته إلى قائمة المفضلة الخاصة بك.</string>
+    <string name="filter_all">الكل</string>
+    <string name="filter_channels">القنوات</string>
+    <string name="filter_movies">الأفلام</string>
+    <string name="filter_series">المسلسلات</string>
+    <string name="added_to_favorites">تمت الإضافة إلى المفضلة</string>
+    <string name="removed_from_favorites">تمت الإزالة من المفضلة</string>
+
+    <!-- General -->
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="close">إغلاق</string>
+</resources>
